@@ -1,0 +1,1 @@
+cmd_out/Debug/prodcon-ll-dds-ms := g++ -Wl,--as-needed  -o out/Debug/prodcon-ll-dds-ms -Wl,--start-group out/Debug/obj.target/libscal.a out/Debug/obj.target/libprodcon-base.a out/Debug/obj.target/libll-dds-ms.a -Wl,--end-group -lpthread -lgflags

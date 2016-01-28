@@ -1,0 +1,1 @@
+cmd_out/Debug/obj.target/libll-dds-ms.a := rm -f out/Debug/obj.target/libll-dds-ms.a && ar crsT out/Debug/obj.target/libll-dds-ms.a out/Debug/obj.target/ll-dds-ms/src/benchmark/std_glue/glue_ll_dds_ms.o

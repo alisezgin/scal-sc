@@ -1,0 +1,1 @@
+cmd_out/Release/obj.target/libscal.a := rm -f out/Release/obj.target/libscal.a && ar crsT out/Release/obj.target/libscal.a out/Release/obj.target/libscal/src/util/allocation.o out/Release/obj.target/libscal/src/util/random.o out/Release/obj.target/libscal/src/util/threadlocals.o out/Release/obj.target/libscal/src/util/workloads.o

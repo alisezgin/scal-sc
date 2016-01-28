@@ -1,0 +1,1 @@
+cmd_out/Release/prodcon-ll-dds-ms := g++ -Wl,--as-needed  -o out/Release/prodcon-ll-dds-ms -Wl,--start-group out/Release/obj.target/libscal.a out/Release/obj.target/libprodcon-base.a out/Release/obj.target/libll-dds-ms.a -Wl,--end-group -lpthread -lgflags

@@ -1,0 +1,1 @@
+cmd_out/Debug/prodcon-sc-disconn-ms := g++ -Wl,--as-needed  -o out/Debug/prodcon-sc-disconn-ms -Wl,--start-group out/Debug/obj.target/libscal.a out/Debug/obj.target/libprodcon-base.a out/Debug/obj.target/libsc-disconn-ms.a -Wl,--end-group -lpthread -lgflags

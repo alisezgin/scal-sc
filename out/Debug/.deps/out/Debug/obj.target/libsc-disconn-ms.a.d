@@ -1,0 +1,1 @@
+cmd_out/Debug/obj.target/libsc-disconn-ms.a := rm -f out/Debug/obj.target/libsc-disconn-ms.a && ar crsT out/Debug/obj.target/libsc-disconn-ms.a out/Debug/obj.target/sc-disconn-ms/src/benchmark/std_glue/glue_sc_disconn_ms.o
